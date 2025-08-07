@@ -6,19 +6,8 @@ I'm **Kirollos**, a Computer and Systems Engineering student passionate about cr
 
 ## Kirollos's GitHub Stats
 <div align="center">
-  <table style="color: white; background-color: #0D1117; border-collapse: collapse; width: 300px;">
-    <tr><td>Total Stars:</td><td>15</td></tr>
-    <tr><td>Total PRs:</td><td>25</td></tr>
-    <tr><td>Total Issues:</td><td>10</td></tr>
-    <tr><td>Contributed (Last Year):</td><td>8</td></tr>
-  </table>
-  <table style="color: white; background-color: #0D1117; border-collapse: collapse; width: 300px;">
-    <tr><td>Most Used Languages:</td><td></td></tr>
-    <tr><td>C++: 40%</td><td style="background-color: #FF6B6B; width: 40%;"></td></tr>
-    <tr><td>Python: 30%</td><td style="background-color: #4ECDC4; width: 30%;"></td></tr>
-    <tr><td>JavaScript: 20%</td><td style="background-color: #45B7D1; width: 20%;"></td></tr>
-    <tr><td>PHP: 10%</td><td style="background-color: #96CEB4; width: 10%;"></td></tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=kirollos123&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&hide=contribs&disable_animations=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirollos123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&langs_count=6&disable_animations=false" height="150" />
 </div>
 
 ---
@@ -76,6 +65,13 @@ I'm a passionate Computer and Systems Engineering student with a knack for build
 ---
 
 ## 📈 Tech Focus (2025 Journey)
+graph LR
+A[Core Programming] --> B[C++ OOP & Design Patterns]
+A --> C[Data Structures & Algorithms]
+C --> D[Problem Solving]
+A --> E[Python Web Projects]
+F[Cloud] --> G[AWS Solutions Architect Prep]
+F --> H[AI + ML + Security Integration]
 
 ---
 
