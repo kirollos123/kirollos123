@@ -1,140 +1,111 @@
-# 🌌 **Kirollos Neural Network**
-
-<!-- Holographic Header Animation -->
+<!-- CINEMATIC INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=30&duration=3500&pause=700&color=00CCFF&center=true&vCenter=true&width=800&lines=Initializing+Neural+Network...;Syncing+AI+Core+Systems;Activating+Security+Protocols;Engaging+Mission+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=800&color=FF3131&center=true&vCenter=true&width=1200&lines=BOOTING+KIROLLOS+AI+SYSTEM...;INITIALIZING+CLOUD+%26+SECURITY+MODULES;DEPLOYING+MISSION+2025;WELCOME+TO+MY+HUD+PROFILE" alt="Typing Animation"/>
 </h1>
 
-<!-- Futuristic Orbital Animation -->
+<!-- Holographic HUD Animation -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/4c/4c7b7b8b8b8b8b8b8b8b8b8b8b8b8b8b.gif" width="80%" height="auto" style="border-radius:20px;filter:drop-shadow(0 0 15px #00CCFF);" />
+  <img src="https://i.gifer.com/76mI.gif" width="100%" />
 </p>
 
 ---
 
-## 🪐 **System Core**
-<div align="center" style="background:linear-gradient(135deg,#1a1a2e,#16213e);padding:25px;border-radius:15px;border:1px solid #00CCFF;">
+## **🚀 About Me – Mission Log**
 
-**`> AI Innovator | Cloud Engineer | Cyber Guardian`**
+> **Software Dev Student | Cloud & AI Enthusiast | Cybersecurity Explorer**
 
-- Architecting with **C++, Python, Dart/Flutter**  
-- Engineering **JARVIS Security v2.0** - AI-Powered Threat Detection  
-- Pursuing **AWS Solutions Architect & Kubernetes Certifications**  
-- Driven by **DevOps Automation**, **AI Integration**, & **Cyber Resilience**  
-
-</div>
+- Currently building **AI Penetration Testing Tool (Graduation Project)**  
+- Mastering **C++, Python, Dart/Flutter** and **AWS Cloud**  
+- Preparing for **AWS Solutions Architect Associate Exam (Sep 2025)**  
+- Future Goal: **Work in UAE → Canada Software Engineer**
 
 ---
 
-## 🛠️ **Tech Matrix (Interactive Icons)**
-
-<p align="center" style="display:flex;justify-content:center;gap:10px;">
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00CCFF?style=plastic&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-FF3366?style=plastic&logo=python&logoColor=white" /></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart%2FFlutter-33FF99?style=plastic&logo=dart&logoColor=white" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazon-aws&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-00CCFF?style=plastic&logo=docker&logoColor=white" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FF3366?style=plastic&logo=linux&logoColor=white" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-33FF99?style=plastic&logo=git&logoColor=white" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-FF9900?style=plastic&logo=kubernetes&logoColor=white" /></a>
-</p>
-
-<style>
-  img[src*="img.shields.io"] {
-    transition: all 0.4s ease;
-  }
-  img[src*="img.shields.io"]:hover {
-    transform: translateY(-5px);
-    filter: brightness(1.2);
-  }
-</style>
-
----
-
-## ⚡️ **Skill Interface (Neon Progress Bars)**
+## **⚡ Tech Power Levels (Neon HUD)**
 
 <p align="center">
-  <img src="https://progress-bar.dev/75/?title=C%2B%2B&width=550&color=00CCFF&suffix=%25&style=flat-square" style="filter:drop-shadow(0 0 10px #00CCFF);" />
+  <img src="https://progress-bar.dev/60/?title=C%2B%2B&width=500&color=FF3131&suffix=%25">
 </p>
 <p align="center">
-  <img src="https://progress-bar.dev/70/?title=Python&width=550&color=FF3366&suffix=%25&style=flat-square" style="filter:drop-shadow(0 0 10px #FF3366);" />
+  <img src="https://progress-bar.dev/55/?title=Python&width=500&color=FFD700&suffix=%25">
 </p>
 <p align="center">
-  <img src="https://progress-bar.dev/65/?title=Dart%2FFlutter&width=550&color=33FF99&suffix=%25&style=flat-square" style="filter:drop-shadow(0 0 10px #33FF99);" />
+  <img src="https://progress-bar.dev/55/?title=Dart%2FFlutter&width=500&color=00BFFF&suffix=%25">
 </p>
 <p align="center">
-  <img src="https://progress-bar.dev/60/?title=AWS&width=550&color=FF9900&suffix=%25&style=flat-square" style="filter:drop-shadow(0 0 10px #FF9900);" />
+  <img src="https://progress-bar.dev/55/?title=AWS&width=500&color=FF4500&suffix=%25">
 </p>
 <p align="center">
-  <img src="https://progress-bar.dev/70/?title=Docker%2FKubernetes&width=550&color=00CCFF&suffix=%25&style=flat-square" style="filter:drop-shadow(0 0 10px #00CCFF);" />
+  <img src="https://progress-bar.dev/55/?title=Docker%2FLinux&width=500&color=00FF7F&suffix=%25">
 </p>
 
 ---
 
-## 📊 **Code Scanner (Language Analytics)**
+## **🌌 Language Radar (Holographic Pie)**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirollos&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=00CCFF&icon_color=FF3366" height="200" style="border-radius:12px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirollos123&layout=pie&theme=tokyonight" height="250"/>
 </p>
 
 ---
 
-## 🖥️ **System Metrics (Holographic Stats)**
+## **🛡️ Stark Analytics (Dynamic Stats)**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirollos&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=00CCFF&icon_color=33FF99&text_color=FFFFFF&show=reviews,prs_merged,stars" height="160" style="animation:pulse 2s infinite;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kirollos&theme=dracula&hide_border=true&background=1a1a2e&ring=FF3366&fire=00CCFF&currStreakLabel=FFFFFF" height="160" style="animation:pulse 2s infinite;" />
-</p>
-
-<style>
-  @keyframes pulse {
-    0% { opacity: 1; }
-    50% { opacity: 0.8; }
-    100% { opacity: 1; }
-  }
-</style>
-
----
-
-## 🏅 **Achievement Grid (Holo-Trophies)**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kirollos&theme=dracula&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" style="filter:drop-shadow(0 0 12px #00CCFF);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kirollos123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FFD700" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kirollos123&theme=radical&hide_border=true&background=0D1117&ring=FF3131&fire=FFD700&currStreakLabel=00BFFF" height="170"/>
 </p>
 
 ---
 
-## 🚀 **Mission 2025 Blueprint**
+## **🏆 Energy Modules (Trophies)**
 
-<div align="center" style="background:linear-gradient(135deg,#1a1a2e,#16213e);padding:20px;border-radius:15px;border:1px solid #33FF99;">
-  <ul style="list-style:none;padding:0;text-align:left;">
-    <li>🌟 <b>February:</b> Complete C++20 & Advanced OOP (Neural Net Stable)</li>
-    <li>⚙️ <b>June:</b> Master Data Structures & Algorithms (Core Optimization)</li>
-    <li>☁️ <b>August:</b> AWS Solutions Architect Certification (Cloud Sync Active)</li>
-    <li>🔒 <b>October:</b> Kubernetes CKA Certification (Cluster Security Online)</li>
-    <li>🌍 <b>December:</b> Deploy JARVIS Security v2.0 & Global Portfolio (System Launch)</li>
-  </ul>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kirollos123&theme=matrix&no-frame=true&row=2&column=4"/>
+</p>
 
 ---
 
-## 🔗 **Sync Nodes (Connect Links)**
+## **📜 Mission 2025 Timeline**
 
-<p align="center" style="display:flex;justify-content:center;gap:15px;">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00CCFF?style=plastic&logo=linkedin&logoColor=white" />
+- **March:** C++ OOP Mastery + Projects  
+- **July:** Data Structures & Algorithms (C++) + Real Applications  
+- **September:** Pass AWS Solutions Architect Exam  
+- **November:** Deliver AI PenTest Tool (Graduation Project)  
+- **December:** Build Portfolio + Apply for UAE & Canada Roles  
+
+---
+
+## **🔥 Featured Projects (HUD Cards)**
+
+### **AI Penetration Testing Tool**
+- Automated vulnerability detection & exploitation  
+- Target: SMBs lacking dedicated security teams  
+- Tech: **Python, AI Models, Cloud Deployment**
+
+### **Travel Joy (C++ Qt Desktop App)**
+- Flight & Hotel booking + Itinerary management  
+- APIs: PayPal, Stripe, Square  
+- Tech: **C++, Qt, JSON, Design Patterns**
+
+---
+
+## **🔗 Command Center**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-FF3131?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF3366?style=plastic&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/X-33FF99?style=plastic&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-<!-- Orbital Contribution Animation -->
+<!-- Optional Snake Animation -->
+<!--
 <p align="center">
-  <img src="https://github.com/kirollos123/kirollos123/blob/output/github-contribution-grid-snake.svg" style="filter:drop-shadow(0 0 10px #33FF99);" />
+  <img src="https://github.com/kirollos123/kirollos123/blob/output/github-contribution-grid-snake.svg" />
 </p>
+-->
