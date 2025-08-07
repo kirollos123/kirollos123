@@ -76,3 +76,22 @@ I'm a passionate Computer and Systems Engineering student with a knack for build
 ---
 
 ## 📈 Tech Focus (2025 Journey)
+
+---
+
+## 🌐 Dev Journey Repositories
+- [Dev Journey](https://github.com/kirollos123/dev_journy-)  
+- [AWS Bootcamp Cruddur 202](https://github.com/kirollos123/kirollos-aws-bootcamp-cruddur-202)  
+- [Learn Core SQL](https://github.com/kirollos123/learn_core_sql)  
+- [My HTTP Server](https://github.com/kirollos123/my_HTTP_SERVER)  
+- [Book API](https://github.com/kirollos123/book_api)  
+- [Expedia Project](https://github.com/kirollos123/Expedia_project)  
+- [RealTimeChatApp](https://github.com/kirollos123/realChatTime/tree/main/RealTimeChatApp)  
+- [SkillSource](https://github.com/kirollos123/SkillSource)
+
+---
+
+## 📫 Connect with Me
+- **Email:** [kirollosnabil2001@gmail.com](mailto:kirollosnabil2001@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/kirollos-nabil-302845215/](https://www.linkedin.com/in/kirollos-nabil-302845215/)  
+- **GitHub:** [https://github.com/kirollos123](https://github.com/kirollos123)
