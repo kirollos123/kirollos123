@@ -8,7 +8,6 @@ I'm **Kirollos**, a Computer and Systems Engineering student passionate about cr
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kirollos123&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirollos123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&langs_count=6" height="150" />
-  <img src=" https://github.com/kirollos123/SkillSource-main/?username=kirollos123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&langs_count=6" height="150" />
 </div>
 
 ---
@@ -45,7 +44,9 @@ I'm a passionate Computer and Systems Engineering student with a knack for build
 ## 🏆 Achievements
 - 🎓 AWS Solutions Architect Certification (In Progress)  
 - 🚀 Launched AI Penetration Testing Tool Prototype (2025)  
-- 🌐 Contributed to SkillSource Project
+- 🌐 Contributed to SkillSource Project  
+- ☁️ Completed ALX Cloud Computing Program  
+- 📊 Certified in Huawei Talent: Big Data
 
 ---
 
@@ -64,11 +65,3 @@ I'm a passionate Computer and Systems Engineering student with a knack for build
 ---
 
 ## 📈 Tech Focus (2025 Journey)
-
-
----
-
-## 📫 Connect with Me
-- **Email:** [kirollosnabil2001@gmail.com](mailto:kirollosnabil2001@gmail.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/kirollos-nabil-302845215/](https://www.linkedin.com/in/kirollos-nabil-302845215/)  
-- **GitHub:** [https://github.com/kirollos123](https://github.com/kirollos123)
