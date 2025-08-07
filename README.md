@@ -8,6 +8,7 @@ I'm **Kirollos**, a Computer and Systems Engineering student passionate about cr
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kirollos123&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirollos123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&langs_count=6" height="150" />
+  <img src=" https://github.com/kirollos123/SkillSource-main/?username=kirollos123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&langs_count=6" height="150" />
 </div>
 
 ---
