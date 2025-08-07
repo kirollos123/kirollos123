@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Kirollos+👋;Software+Dev+Student;Cloud+%26+AI+Enthusiast;Cybersecurity+%26+ML+Fan;Future+Engineer+in+Canada" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Kirollos+👋;Software+Development+Student;Cloud+%26+AI+Enthusiast;Cybersecurity+%26+ML+Fan;Future+Engineer" alt="Typing SVG" />
 </h1>
 
 <!-- Animated GIF -->
@@ -11,10 +11,10 @@
 ---
 
 ## **About Me**
-- 🎓 **Software Development Student** passionate about Cloud, AI, and Cybersecurity.  
-- 🌍 **Goal:** Move to Canada and work as a Software Engineer.  
-- ☁️ Currently preparing for **AWS Solutions Architect Associate**.  
-- 🛠 Building projects in **C++**, **Python**, and **Dart/Flutter**.  
+- 🎓 **Software Development Student** focused on Cloud Computing, AI, and Cybersecurity.  
+- 🌍 Currently building strong foundations in **C++, Python, Dart/Flutter**.  
+- ☁️ Preparing for **AWS Solutions Architect Associate Certification**.  
+- 🛠 Working on projects like **AI-powered Penetration Testing Tool** and **Travel Joy (C++ Qt App)**.  
 
 ---
 
@@ -31,14 +31,40 @@
 
 ---
 
-## **Skills Progress**
-| Skill         | Level |
-|---------------|-------|
-| C++           | ██████████░░ 80% |
-| Python        | ████████░░░░ 65% |
-| Dart/Flutter  | ██████░░░░░░ 50% |
-| AWS Cloud     | ██████░░░░░░ 50% |
-| Docker/Linux  | ██████░░░░░░ 50% |
+## **Skills Progress (Animated)**
+
+<p align="center">
+  <b>C++</b><br>
+  <img src="https://progress-bar.dev/55/?title=C%2B%2B&width=500&color=00599C&suffix=%25">
+</p>
+
+<p align="center">
+  <b>Python</b><br>
+  <img src="https://progress-bar.dev/55/?title=Python&width=500&color=3776AB&suffix=%25">
+</p>
+
+<p align="center">
+  <b>Dart/Flutter</b><br>
+  <img src="https://progress-bar.dev/55/?title=Dart%2FFlutter&width=500&color=0175C2&suffix=%25">
+</p>
+
+<p align="center">
+  <b>AWS Cloud</b><br>
+  <img src="https://progress-bar.dev/55/?title=AWS&width=500&color=232F3E&suffix=%25">
+</p>
+
+<p align="center">
+  <b>Docker/Linux</b><br>
+  <img src="https://progress-bar.dev/55/?title=Docker%2FLinux&width=500&color=2496ED&suffix=%25">
+</p>
+
+---
+
+## **Languages Usage (Pie Chart)**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirollos&layout=pie&theme=radical" height="250" />
+</p>
 
 ---
 
@@ -47,17 +73,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kirollos&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirollos&theme=radical" height="160" />
 </p>
+
+---
+
+## **GitHub Trophies**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirollos&layout=compact&theme=radical" height="140" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kirollos&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## **Goals for 2025**
-- 📚 Master Data Structures & Algorithms with C++.  
-- ☁️ Achieve AWS Solutions Architect Certification.  
-- 🤖 Build AI-powered Penetration Testing Tool (Graduation Project).  
-- 🌍 Prepare portfolio to apply for roles in UAE / Canada.  
 
 ---
 
