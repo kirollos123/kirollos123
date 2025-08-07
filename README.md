@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **Kirollos**, a Computer and Systems Engineering student passionate about crafting innovative tech solutions like Tony Stark! Join me on this coding journey! ⚡
+I'm **Kirollos**, a Computer and Systems Engineering student passionate about crafting innovative tech solutions Join me on this coding journey! ⚡
 
 ---
 
@@ -19,7 +19,7 @@ I'm a passionate Computer and Systems Engineering student with a knack for build
 
 ## 💼 Experience
 - **Project Development - AI & Security Tools**  
-  *2023 - Present*  
+  *2025- Present*  
   - Developed an AI Penetration Testing Tool for SMEs.  
   - Built a Church Sports Web App with Python.  
   - Created a Travel Joy Desktop App using C++ & Qt.  
