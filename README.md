@@ -28,6 +28,12 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirollos&layout=compact&theme=radical" height="140" />
+
+## **Snake Animation**
+<p align="center">
+  <img src="https://github.com/Kirollos/Kirollos/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 </p>
 
 ---
