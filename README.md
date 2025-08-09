@@ -43,6 +43,76 @@ My journey is fueled by **curiosity, persistence, and a vision**: to master the 
 
 ---
 
+## 🚀 Featured Projects  
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Travel Joy</h3>
+<p align="center">
+  <a href="https://github.com/kirollos123/travel-joy" target="_blank">
+    <img src="https://i.imgur.com/1s6OqjT.png" width="90%" alt="Travel Joy Preview"/>
+  </a>
+</p>
+<p align="center">
+  A C++ desktop travel booking app using Qt, JSON, Factory & Adapter patterns, and PayPal/Stripe/Square API.
+</p>
+<p align="center">
+  <a href="https://github.com/kirollos123/travel-joy" target="_blank">🔗 GitHub Repo</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">AI-powered Penetration Testing Tool</h3>
+<p align="center">
+  <a href="https://github.com/kirollos123/ai-penetration-testing" target="_blank">
+    <img src="https://i.imgur.com/POBvPwx.png" width="90%" alt="AI Pen Testing Preview"/>
+  </a>
+</p>
+<p align="center">
+  An AI tool targeting SMBs without security teams — automates vulnerability scans and reporting.
+</p>
+<p align="center">
+  <a href="https://github.com/kirollos123/ai-penetration-testing" target="_blank">🔗 GitHub Repo</a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Church Sports Management Web App</h3>
+<p align="center">
+  <a href="https://github.com/kirollos123/church-sports-management" target="_blank">
+    <img src="https://i.imgur.com/YqUe4yr.png" width="90%" alt="Church Sports Management Preview"/>
+  </a>
+</p>
+<p align="center">
+  Python-based app with Google Drive integration & WhatsApp notifications for church sports events.
+</p>
+<p align="center">
+  <a href="https://github.com/kirollos123/church-sports-management" target="_blank">🔗 GitHub Repo</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">More on My GitHub</h3>
+<p align="center">
+  <a href="https://github.com/kirollos123?tab=repositories" target="_blank">
+    <img src="https://i.imgur.com/3R1Fz5r.png" width="90%" alt="GitHub Repos"/>
+  </a>
+</p>
+<p align="center">
+  Explore all my other repositories including open-source security tools and cloud projects.
+</p>
+<p align="center">
+  <a href="https://github.com/kirollos123?tab=repositories" target="_blank">🔗 View All Projects</a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🏆 Achievements & Goals <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="40">
 - ✅ Built multiple **full-stack & desktop applications** from scratch  
 - 🎯 **Goal for 2025**: AWS Solutions Architect Certification + Publish first open-source security tool  
