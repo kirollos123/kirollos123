@@ -1,50 +1,49 @@
-<!-- Profile Header -->
+<!-- Profile Header with Typing Animation -->
 <h1 align="center">
-  👋 Hey there! I'm <span style="color:#FFDD00">Kirollos</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kirollos+👋;Computer+%26+Systems+Engineer+💻;Cloud+%26+Cybersecurity+Enthusiast+☁️🔐" alt="Typing Animation" />
 </h1>
-<h3 align="center">💻 Computer & Systems Engineering Student | Cloud & Cybersecurity Enthusiast ☁️🔐</h3>
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1b/45/28/1b4528056e8e71a20a8a278e6a9e7a2e.gif" width="800" height="250" alt="Coding Animation">
+  <img src="https://i.gifer.com/7plQ.gif" width="800" height="250" alt="Coding Animation">
 </p>
 
 ---
 
-<!-- Quote -->
+<!-- Motivational Quote -->
 <p align="center">
-  <em>"Success is not built on strength, but on consistency. Small steps every day lead to giant leaps tomorrow."</em> 🚀
+  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="120"><br>
+  <em><strong>"Success is not built on strength, but on consistency. Small steps every day lead to giant leaps tomorrow."</strong></em> 🚀
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirollos123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFDD00&text_color=FFFFFF&disable_animations=false" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirollos123&theme=tokyonight&hide_border=true&background=00000000&ring=FFDD00&fire=FFDD00&currStreakLabel=FFDD00" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kirollos123&show_icons=true&theme=radical&hide_border=true&disable_animations=false" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirollos123&theme=radical&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirollos123&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFDD00&langs_count=6&disable_animations=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirollos123&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 ---
 
 ## 🌟 About Me
-🎯 Passionate about **building future tech** with focus on:
-- **Cloud Computing**
-- **Cybersecurity**
-- **AI & Machine Learning**
-  
-💡 Always learning, always building, always improving.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+
+- 🌐 Passionate about **Cloud Computing**, **Cybersecurity**, and **AI**  
+- 🚀 Love turning ideas into reality through code  
+- 📚 Lifelong learner — always improving skills  
+- ⚡ Believe in **consistency over motivation**  
 
 ---
 
 ## 💼 Experience
-- **Project Development - AI & Security Tools** *(2025 - Present)*  
-  - 🤖 AI Penetration Testing Tool for SMEs.  
-  - 🏆 Church Sports Web App (Python).  
-  - 🧳 Travel Joy Desktop App (C++ & Qt).  
-  - 📂 [Repositories](https://github.com/kirollos123)
+- 🤖 **AI Penetration Testing Tool** *(2025 - Present)*  
+- 🏆 **Church Sports Web App** *(Python)*  
+- 🧳 **Travel Joy Desktop App** *(C++ & Qt)*  
+- 📂 [Repositories](https://github.com/kirollos123)
 
 ---
 
@@ -58,23 +57,15 @@
 ## 🏆 Achievements
 - 🎓 AWS Solutions Architect *(In Progress)*  
 - 🚀 AI Penetration Testing Tool Prototype *(2025)*  
-- 🌐 Contributor in SkillSource Project  
-- ☁️ ALX Cloud Computing Program Graduate  
+- 🌐 Contributor to SkillSource Project  
+- ☁️ ALX Cloud Computing Graduate  
 - 📊 Huawei Big Data Certification  
 
 ---
 
 ## 🔥 Interests
-- 🔐 Automating cybersecurity solutions.  
-- 🌍 Exploring web & desktop app development.  
-
----
-
-## 📌 Current Projects
-- 🧠 **AI Penetration Testing Tool** – Automated exploitation for SMEs.  
-- 🌍 **Church Sports Web App** – Sports management platform.  
-- 🧳 **Travel Joy** – Expedia-like booking system.  
-- 🔒 **Secure Exam App** – Desktop proctoring tool.  
+- 🔐 Automating cybersecurity solutions  
+- 🌍 Exploring web & desktop app development  
 
 ---
 
