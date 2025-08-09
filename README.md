@@ -51,7 +51,7 @@ My journey is fueled by **curiosity, persistence, and a vision**: to master the 
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,java,qt,aws,docker,github,linux,vscode,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,qt,aws,docker,github,linux,vscode,postgresql,mysql" />
 </p>
 
 ---
