@@ -20,13 +20,12 @@ My journey is fueled by **curiosity, persistence, and a vision**: to master the 
 ---
 
 ## 🧠 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-- 🎓 **Bachelor’s in Computer & Systems Engineering (in progress)** – Specializing in **Software Development**  
+- 🎓 ** Bachelor’s in Computer & Systems Engineering (in progress) – Specializing in Software Development**  
 - 💡 Skilled in **C++**, **Python**, **Cloud Computing (AWS)**, **Cybersecurity**, and **AI/ML**  
-- 🌍 Dreaming of **living and working in Canada** after gaining experience in the UAE  
 - 🛠 Currently building:
   - **Travel Joy** – A C++ desktop travel booking app (Qt, JSON, Factory/Adapter patterns, PayPal/Stripe/Square API)  
   - **AI-powered Penetration Testing Tool** – Targeting SMBs without dedicated security teams  
-  - **Church Sports Management Web App** – Python-based with Google Drive integration & WhatsApp notifications  
+  - **Church Sports Management Web App** – Python
 - 🔍 Interests: **Cloud Engineering**, **AI for Security**, **DevOps**, **Backend Development**, and **Data Engineering**  
 - 📍 Current Location: **Egypt** (Open to relocation 🌏)  
 
@@ -46,10 +45,8 @@ My journey is fueled by **curiosity, persistence, and a vision**: to master the 
 ## 🏆 Achievements & Goals <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="40">
 - ✅ Built multiple **full-stack & desktop applications** from scratch  
 - 🎯 **Goal for 2025**: AWS Solutions Architect Certification + Publish first open-source security tool  
-- 💬 Speak English (A2 → working towards IELTS readiness) & Arabic (native)  
 - 📚 Learning **core programming, data structures, algorithms, and design patterns** deeply  
-- 💪 Balancing **technical mastery** with **personal growth & mental resilience**  
-
+-
 ---
 
 ## 🛠 Tech Stack  
