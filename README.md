@@ -59,8 +59,8 @@ My journey is fueled by **curiosity, persistence, and a vision**: to master the 
 ## 🌐 Let's Connect  
 <p align="center">
   <a href="https://github.com/kirollos123" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:kirollos.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/kirollos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:kirollosnabil2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/kirollos-nabil-302845215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 </p>  
 
 ---
