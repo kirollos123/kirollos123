@@ -20,9 +20,22 @@ I'm a passionate Computer and Systems Engineering student with a knack for build
   - [Repository](https://github.com/kirollos123)
 
 ## 🛠️ Technical Toolbox
-**Languages:** C++, Python, JavaScript, PHP, Java  
-**Frameworks & Technologies:** Qt, AWS, Docker  
-**Tools:** GitHub, VS Code, Linux
+**Languages:**  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+
+**Frameworks & Technologies:**  
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=FF9900)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+
+**Tools:**  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ## 🌱 Soft Skills
 - **Teamwork:** Collaborated on open-source projects.  
