@@ -12,7 +12,7 @@
 
 # 👋 Hey there, I'm Kirollos!  
 
-🚀 **Computer and Systems Engineering Student | Future Cloud & AI Innovator | Aspiring Canadian Software Developer**  
+🚀 **Computer and Systems Engineering Student **  
 
 I’m passionate about building **powerful, scalable, and intelligent software solutions** — from **desktop apps** to **AI-powered security tools** — and everything in between.  
 My journey is fueled by **curiosity, persistence, and a vision**: to master the art of software development, work globally, and make a real impact in the tech world.  
