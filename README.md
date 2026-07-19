@@ -1,41 +1,35 @@
-<h1 align="center">Hi 👋, I'm Kirollos</h1>
-<h3 align="center">Data Engineer & Backend Developer</h3>
+<h1 align="center">📈 kirollos Nabil's Dev Metrics</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirollos123&label=Profile%20views&color=0e75b6&style=flat" alt="kirollos123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirollos123" alt="kirollos123" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Python-API-Development](https://github.com/kirollos123/Python-API-Development.git)
-
-- 🌱 I’m currently learning **🌱 Currently Learning • Data Engineering • Apache Airflow • Apache Spark • Docker • AWS • FastAPI • Data Modeling • System Design**
-
-- 👯 I’m looking to collaborate on [unimeet](https://github.com/kirollos123/Unimeet_SSO.git)
-
-- 🤝 I’m looking for help with **Building End-to-End Data Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kirollos123?tab=repositories](https://github.com/kirollos123?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kirollos-nabil-302845215/](https://www.linkedin.com/in/kirollos-nabil-302845215/)
-
-- 💬 Ask me about **Python FastAPI Django SQL REST APIs PostgreSQL Backend Development Git Linux**
-
-- 📫 How to reach me **kirollosnabil93@gmail.com**
-
-- ⚡ Fun fact **⚽ I enjoy combining football and data to uncover insights.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.linkedin.com/in/kirollos-nabil-302845215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.linkedin.com/in/kirollos-nabil-302845215/" height="30" width="40" /></a>
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=github.com/kirollos123&color=brightgreen&style=flat-square&label=Profile+Views)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirollos123&show_icons=true&locale=en&layout=compact" alt="kirollos123" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=github.com/kirollos123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirollos123&show_icons=true&locale=en" alt="kirollos123" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=github.com/kirollos123&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirollos123&" alt="kirollos123" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/kirollos123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
+</div>
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=github.com/kirollos123&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/github.com/kirollos123)
+
+</div>
+
+## 🛠️ Built With
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![djnago](https://img.shields.io/badge/djnago-333?style=for-the-badge&logo=djnago&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kirollos123) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirollosnabil93@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kirollos-nabil-302845215/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github.com/kirollos123)
+
+</div>
