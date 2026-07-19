@@ -1,146 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kirollos%20Nabil&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:0066FF,100:8A2BE2&text=KIROLLOS%20NABIL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h2>
-Backend Developer • Aspiring Data Engineer
-</h2>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Developer;FastAPI+Developer;Learning+Data+Engineering;Building+End-to-End+Data+Projects;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Aspiring+Data+Engineer;Python+Developer;Building+Scalable+APIs;Learning+Cloud+%26+Distributed+Systems;Future+Football+Data+Engineer"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 💻 SYSTEM STATUS
 
-🎓 Final-year Software Development Student
-
-🐍 Passionate about Python, Backend Development, and Data Engineering.
-
-⚡ Currently building real-world backend APIs and preparing for large-scale data engineering projects.
-
-☁ Learning Cloud Technologies, System Design, and Modern Data Platforms.
-
-⚽ Long-term goal: Build Data Platforms for Football Analytics.
-
----
-
-# 🚀 Current Focus
-
-- Backend Development
-- FastAPI
-- Docker
-- AWS
-- PostgreSQL
-- System Design
-- Data Modeling
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ USER        :: Kirollos Nabil                               │
+│ ROLE        :: Backend Developer                            │
+│ STATUS      :: 🟢 Online                                    │
+│ LOCATION    :: Egypt 🇪🇬                                    │
+│ FOCUS       :: Backend • Data Engineering                   │
+│ MISSION     :: Build Production-Ready Systems               │
+│ DREAM       :: Football Data Engineering ⚽                 │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ ABOUT
 
-### Languages
+```bash
+$ whoami
 
-<p>
+> Final-year Software Development Student
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
+$ interests
 
-</p>
+> Backend Development
+> Data Engineering
+> Cloud Computing
+> System Design
+> Football Analytics
 
-### Backend
+$ current_status
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,django"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,postman,vscode"/>
-
-</p>
+> Building APIs...
+> Learning Docker...
+> Learning AWS...
+> Preparing Large Scale Data Projects...
+```
 
 ---
 
-# 📚 Currently Learning
-
-- Docker
-- AWS
-- FastAPI
-- Data Modeling
-- System Design
-
----
-
-# 📊 GitHub Stats
+# 🛠 TECH STACK
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,django,postgres,mysql,docker,aws,linux,git,postman,vscode"/>
+
+</div>
+
+---
+
+# 📊 GITHUB DASHBOARD
+
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=kirollos123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirollos123&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 STREAK
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=kirollos123&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirollos123&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 SNAKE
 
-<div align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 ACTIVE MISSIONS
 
-⭐ Python API Development
+```text
+[✔] Python API Development
 
-⭐ UniMeet Graduation Project
+[✔] UniMeet Graduation Project
 
-⭐ DSA & Algorithms
+[✔] Data Structures & Algorithms
 
-⭐ Football Data Engineering Platform *(Coming Soon)*
+[⏳] Football Data Engineering Platform
+
+[🔒] More Projects Coming...
+```
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 CONNECT
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/kirollos123">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -160,6 +139,21 @@ Backend Developer • Aspiring Data Engineer
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=kirollos123&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=kirollos123&style=for-the-badge&color=0e75b6)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+██████████████████████████████████████████████
+
+"There is no finish line.
+Only the next challenge."
+
+██████████████████████████████████████████████
+```
 
 </div>
